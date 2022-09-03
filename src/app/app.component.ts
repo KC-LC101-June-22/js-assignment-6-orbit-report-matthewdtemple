@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { Satellite } from './satellite';
-
+// testing git commit 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
